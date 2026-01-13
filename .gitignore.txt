@@ -1,0 +1,6 @@
+# MATLAB default ignore files
+*.asv
+*.slxc
+*.mex*
+*.log
+slprj/
